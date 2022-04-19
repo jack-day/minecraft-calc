@@ -424,17 +424,3 @@ class CalculatorState extends ChangeNotifier {
     ));
   }
 }
-
-
-/*-------
-To Do:
-
-Done:
-- Figure out how to change TextField value when state has a change
-  - Maybe Controller wrapped in Consumer?
-- Add Units screen back in using a different class
--Add Database
--Add save result
--Add Show saved results
--Make main content scrollable
-*/
